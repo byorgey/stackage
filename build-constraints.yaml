@@ -366,6 +366,9 @@ packages:
         - diagrams-lib
         - diagrams-postscript
         - diagrams-svg
+        - diagrams-cairo
+        - diagrams-gtk
+        - diagrams-solve
         - dual-tree
         - force-layout
         - haxr
