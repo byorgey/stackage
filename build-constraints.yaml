@@ -68,7 +68,6 @@ packages:
         - configurator
         - convertible
         - csv-conduit
-        - diagrams-cairo
         - dimensional
         - executable-hash
         - executable-path
@@ -366,6 +365,9 @@ packages:
         - diagrams-lib
         - diagrams-postscript
         - diagrams-svg
+        - diagrams-cairo
+        - diagrams-gtk
+        - diagrams-solve
         - dual-tree
         - force-layout
         - haxr
