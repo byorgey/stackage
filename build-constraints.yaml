@@ -68,7 +68,6 @@ packages:
         - configurator
         - convertible
         - csv-conduit
-        - diagrams-cairo
         - dimensional
         - executable-hash
         - executable-path
