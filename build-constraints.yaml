@@ -624,7 +624,7 @@ packages:
     "Brent Yorgey <byorgey@gmail.com> @byorgey":
         - active
         - diagrams
-        # - diagrams-builder # haskell-src-exts
+        - diagrams-builder
         - diagrams-cairo
         - diagrams-contrib
         - diagrams-core
