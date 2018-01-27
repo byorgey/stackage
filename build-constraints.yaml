@@ -627,6 +627,7 @@ packages:
 
     "Brent Yorgey <byorgey@gmail.com> @byorgey":
         - active
+        - dual-tree
         - diagrams
         # - diagrams-builder # haskell-src-exts
         - diagrams-cairo
@@ -634,10 +635,12 @@ packages:
         - diagrams-core
         - diagrams-lib
         - diagrams-svg
+        - diagrams-rasterific
         - force-layout
         - haxr
         - MonadRandom
         - monoid-extras
+        - BlogLiterately
 
     "Vincent Berthoux <vincent.berthoux@gmail.com> @Twinside":
         - JuicyPixels
